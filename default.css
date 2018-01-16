@@ -1,5 +1,8 @@
-h1, h2{
+* {
 	font-family: Tahoma;
+}
+
+h1, h2{
 	text-align: center;
 }
 
@@ -14,7 +17,6 @@ h1, h2{
 }
 
 .project_title{
-	font-family: Tahoma;
 	text-align: center;
 }	
 
